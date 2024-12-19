@@ -1,0 +1,104 @@
+/home/tmanolis/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+total 36
+drwxrwxr-x  2 tmanolis tmanolis 4096 Dec 19 12:54 .
+drwxr-xr-x 13 tmanolis tmanolis 4096 Dec 19 12:47 ..
+-rw-rw-r--  1 tmanolis tmanolis  485 Dec 19 12:32 example1.c
+-rw-rw-r--  1 tmanolis tmanolis  431 Dec 19 12:32 example2.c
+-rw-rw-r--  1 tmanolis tmanolis  442 Dec 19 12:32 example3.c
+-rw-rw-r--  1 tmanolis tmanolis  574 Dec 19 12:43 example4.c
+-rw-rw-r--  1 tmanolis tmanolis  426 Dec 19 12:47 example5.c
+-rw-rw-r--  1 tmanolis tmanolis  470 Dec 19 12:32 example6.c
+-rw-rw-r--  1 tmanolis tmanolis   91 Dec 19 12:56 log
+-bash: cd: /path/to/directory: No such file or directory
+mkdir: cannot create directory ‘parent/child’: No such file or directory
+stat: cannot stat 'filename': No such file or directory
+  File: example1.c
+  Size: 485       	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 410661      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1198/tmanolis)   Gid: ( 1200/tmanolis)
+Access: 2024-12-19 12:30:20.432746321 +0200
+Modify: 2024-12-19 12:32:33.498147618 +0200
+Change: 2024-12-19 12:32:33.498147618 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+./pattern
+ssssssssssssssssssssss
+ssssssssss
+ss
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+sssss
+
+ss
+
+ssssssssssssssssssssss
+ssssssssss
+ss
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+sssss
+
+ss
+
+ssssssssssssssssssssss
+ssssssssss
+ss
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+sssss
+
+ss
+
+./
+./example2.c
+./example4.c
+./pattern
+./new_folder/
+./new_folder/child/
+./source.txt
+./file.txt
+./example5.c
+./newname.txt
+./example3.c
+./example1.c
+./example6.c
+./log
+tar: ./log: file changed as we read it
+./destination.txt
+tar: .: file changed as we read it
